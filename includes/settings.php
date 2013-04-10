@@ -1,3 +1,3 @@
 <?php 
-$myURL = 'http://localhost/personal-website/v1/' 
+$myURL = 'http://localhost/TwuRevise' 
 ?>
